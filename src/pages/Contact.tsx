@@ -292,7 +292,7 @@ const Contact = () => {
               </div>
               <div className="text-center mt-4">
                 <span className="inline-block bg-primary/10 text-primary px-3 py-1 rounded-full text-sm font-medium">
-                  Volunteer
+                  Head of Outreach
                 </span>
               </div>
             </CardContent>
@@ -321,7 +321,7 @@ const Contact = () => {
               </div>
               <div className="text-center mt-4">
                 <span className="inline-block bg-primary/10 text-primary px-3 py-1 rounded-full text-sm font-medium">
-                  Volunteer
+                  Networking Manager
                 </span>
               </div>
             </CardContent>

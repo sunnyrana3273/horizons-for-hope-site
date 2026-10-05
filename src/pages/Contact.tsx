@@ -2,7 +2,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Mail, Phone, Send, User, Copy, Check, Instagram, AlertTriangle, ChevronDown, ChevronUp } from "lucide-react";
 import { useState } from "react";
 import { useToast } from "@/hooks/use-toast";
-import marianaImage from "@/assets/mariana.png";
+import marianaImage from "@/assets/mariana2.png";
 import isabellaImage from "@/assets/isabella.jpg";
 import vyshuImage from "@/assets/vyshu.jpeg";
 import lilaImage from "@/assets/lila.jpeg";
